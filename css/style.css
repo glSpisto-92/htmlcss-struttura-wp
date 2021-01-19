@@ -10,6 +10,7 @@ body{
   margin: auto;
 }
 
+
 /* header */
 .head{
   height: 150px;
@@ -29,7 +30,7 @@ body{
   width: 100%;
   height: 100px;
   background-color: lightblue;
-  margin: 1% 0 1% 0;
+  margin: 0 0 1% 0;
 }
 
 /* colonne flottanti */
@@ -59,5 +60,5 @@ body{
   width: 100%;
   height: 100px;
   background-color: purple;
-  margin: 2% 0;
+  margin: 1% 0;
 }
